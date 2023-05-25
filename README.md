@@ -1,16 +1,17 @@
 # beebeer_app
 
-A new Flutter project.
+This is a Social Media App use for entertaiment user with gosip, music, video, meme and etc.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Run Android Emulator 
+- Write "flutter pub get" in terminal to got a newest dependencies 
+- Write "flutter run" in terminal to run a project 
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Happy Coding :) <br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+**Anggur merah intisari** <br>
+**Jangan menyerah tetap berlari**
