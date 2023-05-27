@@ -1,0 +1,22 @@
+class AppTheme {
+  static ThemeData theme = ThemeData.light().copyWith(
+    // scaffoldBackgroundColor: Pallete.whiteColor,
+    appBarTheme: const AppBarTheme(
+      backgroundColor: Pallete.pinkColor,
+      elevation: 0,
+    ),
+    floatingActionButtonTheme: const FloatingActionButtonThemeData(
+      backgroundColor: Pallete.pinkColor,
+    ),
+  );
+}
+
+class Pallete {
+  static const Color backgroundColor = Color(0xFF1b1b1b);
+  static const Color searchBarColor = Color.fromRGBO(32, 35, 39, 1);
+  static const Color blueColor = Color.fromRGBO(29, 155, 240, 1);
+  static const Color pinkColor = Color(0xFFCC0052);
+  static const Color whiteColor = Colors.white;
+  static const Color greyColor = Colors.grey;
+  static const Color redColor = Color.fromRGBO(249, 25, 127, 1);
+}
