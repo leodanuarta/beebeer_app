@@ -71,12 +71,13 @@ class _LoginViewState extends State<LoginView> {
                         color: Pallete.pinkColor,
                         fontSize: 16,
                       ),
-                      recognizer: TapGestureRecognizer()..onTap = () {
-                        Navigator.push(
+                      recognizer: TapGestureRecognizer()
+                        ..onTap = () {
+                          Navigator.push(
                             context,
                             SignUpView.route(),
                           );
-                      },
+                        },
                     ),
                   ],
                 )),

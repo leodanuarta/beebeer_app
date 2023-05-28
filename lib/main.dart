@@ -1,4 +1,3 @@
-import 'package:beebeer_app/features/auth/view/login_view.dart';
 import 'package:beebeer_app/features/auth/view/signup_view.dart';
 import 'package:beebeer_app/theme/theme.dart';
 import 'package:flutter/material.dart';
