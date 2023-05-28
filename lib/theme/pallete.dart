@@ -7,4 +7,5 @@ class Pallete {
   static const Color whiteColor = Colors.white;
   static const Color greyColor = Colors.grey;
   static const Color redColor = Color.fromRGBO(249, 25, 127, 1);
+  static const Color pinkColor = Color.fromRGBO(204, 0, 82, 1);
 }
